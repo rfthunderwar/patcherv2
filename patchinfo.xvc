@@ -74,5 +74,7 @@ SpriteImage\ads\init.ini e3c2d20ca27c5581d7aa4a239a1ae84ca90e20cc
 SpriteImage\common\battlepass.spr ed5ed9c2b82fe99fde2a26f9c762c88167a765de
 SpriteImage\common\guildskill.spr 16a2187025674a41974373b4f464b36495a6d137
 SpriteImage\common\hvn.spr 1f421d4c63f720ae796b29cf358160045600e44c
+SpriteImage\common\item.spr fba4d6de5b36e87c4d8658817ae09a2666b5a4a5
 SpriteImage\en-gb\common.spr c526aba2d5f36d1441209238a7b7aef9c07a6b5b
+SpriteImage\en-gb\item.spr fba4d6de5b36e87c4d8658817ae09a2666b5a4a5
 System\lucon.ttf 3a21f868544500c690f8ac04dc6b05a7dfe94637
